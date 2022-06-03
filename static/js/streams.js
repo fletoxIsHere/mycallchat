@@ -1,6 +1,3 @@
-import axios from 'axios';
-
-
 const APP_ID = '47e958466a5548f89b96a338d6215fe2'
 const CHANNEL = sessionStorage.getItem('room')
 const TOKEN = sessionStorage.getItem('token')
