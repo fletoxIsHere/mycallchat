@@ -158,5 +158,11 @@ background-color: rgba(198,202,219,1);
 #leave-btn{
     background-color: rgb(255,80,80,1);
 }
+.all{
+    margin-left: 50px;
+}
 
+.names{
+    margin-left: 100px;
+}
 
